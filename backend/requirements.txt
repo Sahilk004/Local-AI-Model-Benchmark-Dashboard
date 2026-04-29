@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+instructor
+ollama
+psutil
+sqlalchemy
+tenacity

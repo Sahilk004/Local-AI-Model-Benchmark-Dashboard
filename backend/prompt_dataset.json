@@ -1,0 +1,18 @@
+{
+  "coding": [
+    "Write a Python function to reverse a linked list.",
+    "Explain the time and space complexity of quicksort."
+  ],
+  "reasoning": [
+    "Why is the sky blue? Explain simply.",
+    "Explain recursion with a real-world example."
+  ],
+  "summarization": [
+    "Summarize the following: Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals including humans. Leading AI textbooks define the field as the study of 'intelligent agents': any system that perceives its environment and takes actions that maximize its chance of achieving its goals.",
+    "Summarize the concept of quantum computing in one sentence."
+  ],
+  "general": [
+    "What is AI?",
+    "Explain blockchain simply to a 10-year-old."
+  ]
+}
